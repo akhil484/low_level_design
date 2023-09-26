@@ -1,0 +1,18 @@
+3.000000+2.000000
+Result: 5
+5.000000-1.000000
+Result: 4
+4.000000*34.000000
+Result: 136
+Sqaure Root of 25.000000
+Result: 5
+Log Base 10 of 100.000000
+Result: 2
+2.000000+5.000000
+Result: 7
+7.000000*3.000000
+Result: 21
+21.000000/2.000000
+Result: 10.5
+Sqaure of 32.000000
+Result: 1024
