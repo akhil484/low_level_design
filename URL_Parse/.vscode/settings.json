@@ -4,6 +4,9 @@
         "xlocale": "cpp",
         "utility": "cpp",
         "string": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "regex": "cpp",
+        "iostream": "cpp",
+        "xutility": "cpp"
     }
 }
