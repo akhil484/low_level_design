@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "xtree": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xutility": "cpp",
+        "list": "cpp"
+    }
+}
